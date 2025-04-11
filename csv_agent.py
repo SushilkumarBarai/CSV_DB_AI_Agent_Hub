@@ -4,7 +4,11 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 import pandas as pd
 
+<<<<<<< HEAD
 # Load environment variables from .env files
+=======
+# Load environment variables from .env file
+>>>>>>> 1703672f0aebc4093a53f79f9fead3d3747dc671
 load_dotenv()
 
 openai_key = os.getenv("OPENAI_API_KEY")

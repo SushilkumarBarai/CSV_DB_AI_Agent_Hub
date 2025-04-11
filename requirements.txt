@@ -11,4 +11,7 @@ SQLAlchemy==2.0.30
 pandas==2.2.2
 python-dotenv==1.0.1
 streamlit
+<<<<<<< HEAD
 os
+=======
+>>>>>>> 1703672f0aebc4093a53f79f9fead3d3747dc671

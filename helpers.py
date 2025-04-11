@@ -3,7 +3,11 @@ import pandas as pd
 import numpy as np
 import json
 
+<<<<<<< HEAD
 # Create an engine to connect to the SQLite database !
+=======
+# Create an engine to connect to the SQLite database
+>>>>>>> 1703672f0aebc4093a53f79f9fead3d3747dc671
 database_file_path = "./db/salary.db"
 engine = create_engine(f"sqlite:///{database_file_path}")
 
