@@ -9,11 +9,9 @@ load_dotenv()
 
 openai_key = os.getenv("OPENAI_API_KEY")
 
-<<<<<<< HEAD
-llm_name = "gpt-3.5-turbo"  # use this cause is cheaper
-=======
+
 llm_name = "gpt-3.5-turbo"  # use this cause is cheaper!
->>>>>>> 1703672f0aebc4093a53f79f9fead3d3747dc671
+
 model = ChatOpenAI(api_key=openai_key, model=llm_name)
 
 # for the weather function calling
