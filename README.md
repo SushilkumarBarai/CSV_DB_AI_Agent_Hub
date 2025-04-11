@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 # 🧠 Agentic AI for SQL & CSV Querying
 
