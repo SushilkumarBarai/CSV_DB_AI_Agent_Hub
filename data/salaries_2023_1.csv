@@ -1,0 +1,501 @@
+Department,Department_Name,Division,Gender,Base_Salary,Overtime_Pay,Longevity_Pay,Grade
+ITS,Information Technology Services,ITS 103 Data Engineering,M,94274.95,10492.37,7895.17,16
+ITS,Information Technology Services,ITS 101 Infrastructure,M,190525.83,8423.09,4306.93,16
+ITS,Information Technology Services,ITS 103 Data Engineering,M,192144.67,5291.67,6754.64,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,168130.76,14945.73,6146.28,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,115463.33,7335.76,2000.13,18
+ITS,Information Technology Services,ITS 103 Data Engineering,F,171489.3,14122.29,7810.25,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,M,172574.13,4650.38,7767.35,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,F,96025.9,14974.29,8300.81,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,75043.62,995.49,8475.98,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,131650.39,5993.84,1016.18,N20
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,110678.15,7950.3,9011.17,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,80655.93,13348.18,7582.55,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,M,114213.39,11183.22,2260.15,18
+ITS,Information Technology Services,ITS 101 Infrastructure,M,177749.99,4340.94,6213.8,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,164312.48,1312.89,7844.03,21
+ITS,Information Technology Services,ITS 103 Data Engineering,M,151725.84,6424.91,1403.65,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,F,137791.39,12804.11,1213.52,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,195241.47,1768.83,964.87,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,M,150481.79,111.99,391.21,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,63967.35,3070.89,3624.68,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,193303.04,1055.51,600.98,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,194102.61,7123.69,5095.21,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,154827.79,13177.52,5250.77,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,144941.44,9390.84,6926.52,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,185490.11,1314.54,4020.51,M1
+ITS,Information Technology Services,ITS 103 Data Engineering,F,73281.81,2495.81,3645.27,13
+ITS,Information Technology Services,ITS 103 Data Engineering,F,99323.18,11369.78,2110.92,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,162089.32,3751.64,1144.35,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,91045.61,342.12,4195.16,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,190397.94,3994.75,1341.02,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,189725.62,3415.64,3292.34,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,94539.57,3801.24,4816.65,M2
+ITS,Information Technology Services,ITS 101 Infrastructure,M,192916.93,6605.64,2791.29,18
+ITS,Information Technology Services,ITS 101 Infrastructure,F,182323.21,14959.17,3568.42,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,144494.22,7193.05,8550.09,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,119131.72,14476.55,1409.38,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,90120.16,3505.48,7822.98,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,F,99047.53,12335.17,654.26,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,154055.1,8415.07,1281.65,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,168061.41,6403.84,5457.5,16
+ITS,Information Technology Services,ITS 103 Data Engineering,M,177809.18,2065.43,2871.34,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,127842.66,8653.86,8284.43,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,166673.96,8113.15,3481.53,M2
+ITS,Information Technology Services,ITS 101 Infrastructure,F,96566.65,5111.89,316.35,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,M,107358.91,10777.55,9200.56,16
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,78501.55,2530.34,9872.41,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,98716.94,10079.42,5279.72,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,162890.5,3331.71,2450.48,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,F,189387.13,5523.66,4131.83,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,86143.31,10603.74,9777.39,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,162793.52,3992.94,8070.07,21
+ITS,Information Technology Services,ITS 101 Infrastructure,M,168664.78,8566.72,1113.34,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,106675.53,4984.66,2973.36,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,114543.45,1227.35,4202.42,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,M,136284.68,7538.9,7216.75,16
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,118997.05,5905.13,7228.04,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,153618.25,11466.22,2619.39,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,94313.65,4257.61,4939.83,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,156988.33,514.99,2913.89,M2
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,112919.01,7299.83,5163.23,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,123329.07,2971.94,4147.2,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,M,192357.61,2917.17,5143.75,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,F,111806.32,1913.71,8282.41,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,145681.01,4940.91,7871.11,18
+ITS,Information Technology Services,ITS 101 Infrastructure,F,179383.46,11026.0,7062.37,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,86436.88,5359.72,5190.04,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,F,114092.39,14339.72,6357.84,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,F,171693.87,14837.48,7842.62,13
+ITS,Information Technology Services,ITS 101 Infrastructure,M,174853.14,1437.79,1665.97,21
+ITS,Information Technology Services,ITS 103 Data Engineering,M,87788.43,2716.0,9805.49,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,169379.07,6936.39,6382.01,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,150768.01,3584.2,5644.39,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,F,153288.27,10485.31,3808.79,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,63937.31,4000.32,8004.38,N20
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,186825.36,14545.83,5353.54,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,184305.84,11635.49,1594.03,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,F,178267.48,14357.71,9223.25,M3
+ITS,Information Technology Services,ITS 103 Data Engineering,M,159590.13,6868.62,3169.96,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,80262.66,7425.91,8812.84,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,M,168019.42,12813.73,6323.81,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,F,171338.99,1539.14,598.78,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,73331.4,3659.39,4343.55,21
+ITS,Information Technology Services,ITS 103 Data Engineering,M,190645.61,2454.08,7.54,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,F,99989.4,8149.89,2829.0,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,81016.63,12662.95,2933.59,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,F,177461.07,8954.46,913.17,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,72818.19,3942.89,2716.23,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,113096.92,4665.72,7224.89,16
+ITS,Information Technology Services,ITS 103 Data Engineering,F,103725.67,13922.77,3866.16,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,F,153901.7,9413.79,3502.84,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,M,157228.01,12647.13,1594.45,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,F,162333.64,2143.07,8471.86,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,105052.93,1724.2,9213.89,M1
+ITS,Information Technology Services,ITS 103 Data Engineering,F,191726.49,1052.8,1651.26,16
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,187332.95,8684.02,8014.33,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,116624.39,7138.04,7553.72,16
+ITS,Information Technology Services,ITS 103 Data Engineering,M,134910.5,8649.42,6281.46,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,M,187331.13,4546.48,7833.56,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,M,166039.25,5284.24,2822.06,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,113824.18,528.93,584.25,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,92131.91,1533.0,2350.77,16
+ITS,Information Technology Services,ITS 103 Data Engineering,F,63363.59,13527.93,2555.69,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,151614.92,11632.33,3536.19,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,M,137348.41,2370.54,4039.15,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,F,86987.9,3552.03,8738.86,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,143285.62,7721.48,5356.28,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,195618.37,14732.57,2186.22,M3
+ITS,Information Technology Services,ITS 103 Data Engineering,M,155338.18,11729.38,5536.47,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,183846.02,1699.0,7034.43,21
+ITS,Information Technology Services,ITS 101 Infrastructure,F,77450.84,3995.1,5310.64,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,122019.09,2585.42,2264.54,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,104814.25,9856.67,5693.55,16
+ITS,Information Technology Services,ITS 103 Data Engineering,F,140523.94,6060.6,4857.46,13
+ITS,Information Technology Services,ITS 101 Infrastructure,M,122963.05,12307.79,5132.81,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,165901.24,12331.19,6418.23,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,138281.69,13360.28,4636.91,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,116792.42,3898.6,2438.04,M1
+ITS,Information Technology Services,ITS 103 Data Engineering,M,179550.43,149.0,1523.31,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,161395.24,10830.27,115.29,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,126707.16,10351.63,2147.41,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,169696.27,11885.65,6748.55,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,92282.49,1774.98,9234.75,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,135969.91,1865.48,7028.39,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,132922.52,9971.14,9322.48,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,190168.42,14701.75,6186.69,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,114556.9,5047.08,861.66,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,M,61468.72,751.61,1345.35,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,60345.17,6421.28,5804.93,16
+ITS,Information Technology Services,ITS 101 Infrastructure,M,164163.23,11388.02,749.84,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,151359.75,213.65,3105.08,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,187368.04,12039.08,287.92,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,F,115438.63,7806.94,2961.53,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,M,192659.34,1184.44,6986.95,21
+ITS,Information Technology Services,ITS 103 Data Engineering,M,151964.76,13162.81,3935.34,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,126745.58,6818.52,3550.85,16
+ITS,Information Technology Services,ITS 103 Data Engineering,M,109115.87,1370.36,9877.45,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,122544.76,14917.9,678.03,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,189394.96,195.8,4974.56,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,132090.55,4556.87,6719.12,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,177834.07,11732.91,5988.26,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,F,149090.45,14433.95,1590.42,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,151249.12,780.76,1616.81,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,78083.66,14701.02,8983.74,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,149821.45,5428.49,4063.21,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,149824.46,358.82,2065.77,M3
+ITS,Information Technology Services,ITS 103 Data Engineering,F,188636.92,7496.58,1831.84,18
+ITS,Information Technology Services,ITS 101 Infrastructure,M,67033.12,1490.82,2458.56,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,M,146347.97,13768.93,4970.28,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,F,156860.24,899.07,5259.03,16
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,89016.13,12179.12,3918.81,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,86553.0,7930.8,2364.49,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,130105.87,14247.46,105.98,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,153480.38,7753.59,1481.47,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,74492.68,13815.52,6829.7,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,139733.37,12858.15,8762.61,21
+ITS,Information Technology Services,ITS 101 Infrastructure,F,165248.21,4718.95,1448.81,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,117785.64,5849.85,764.39,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,M,84194.79,12512.45,9965.49,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,F,181198.07,4453.9,8387.2,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,154947.1,401.66,3026.33,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,119457.82,8962.23,7372.46,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,117685.07,5380.47,6004.73,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,148538.52,2943.83,842.92,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,M,146583.37,12858.82,978.8,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,91823.8,782.27,7465.59,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,187600.68,14007.68,8147.07,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,124742.29,11098.81,4400.76,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,F,163067.14,3687.58,4223.26,16
+ITS,Information Technology Services,ITS 103 Data Engineering,M,81202.84,11344.1,5755.55,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,88512.17,2740.8,7843.39,16
+ITS,Information Technology Services,ITS 101 Infrastructure,F,65652.85,14188.51,6459.82,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,182264.03,2919.31,5968.75,18
+ITS,Information Technology Services,ITS 103 Data Engineering,F,181694.0,3286.98,3381.91,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,148929.1,4155.15,962.1,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,F,74221.75,14350.0,6912.22,16
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,166541.92,6420.11,2094.43,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,F,61129.05,1477.54,3234.57,18
+ITS,Information Technology Services,ITS 101 Infrastructure,F,98903.92,8968.31,4719.47,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,188909.76,9986.31,7031.58,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,180378.48,13321.67,4716.05,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,141941.87,14998.19,3996.28,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,100648.82,10317.12,6671.61,16
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,95286.16,6130.68,3937.62,21
+ITS,Information Technology Services,ITS 103 Data Engineering,F,170972.09,3475.89,3365.33,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,66322.64,6792.35,2863.77,M2
+ITS,Information Technology Services,ITS 101 Infrastructure,F,106668.68,3602.84,7547.06,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,M,96958.4,5366.16,8969.33,21
+ITS,Information Technology Services,ITS 101 Infrastructure,F,101230.48,2554.82,4839.84,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,150487.7,13388.09,6305.62,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,112784.55,13394.67,3940.92,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,105707.7,1187.47,4837.84,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,128600.61,6227.91,8492.8,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,119948.56,13917.66,3848.47,16
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,129138.23,13451.89,9524.94,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,64649.08,6897.02,2563.97,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,88360.61,4290.45,2537.84,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,189291.76,14625.49,5320.74,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,171888.86,8771.73,476.16,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,194648.13,3708.82,1134.13,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,F,63888.2,1282.08,1979.24,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,177011.61,5166.24,4789.44,21
+ITS,Information Technology Services,ITS 103 Data Engineering,F,83048.5,8867.91,195.28,16
+ITS,Information Technology Services,ITS 101 Infrastructure,M,104231.71,600.16,7265.64,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,144344.62,518.99,4537.67,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,160235.09,5749.7,7705.15,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,89505.83,14232.78,1550.66,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,89869.33,8194.29,575.27,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,78330.08,12971.67,420.67,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,79826.32,4798.74,3068.26,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,146045.99,14279.87,343.38,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,M,152496.6,14431.88,4566.35,21
+ITS,Information Technology Services,ITS 101 Infrastructure,F,125380.81,863.75,8778.58,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,136592.46,6934.91,7869.59,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,94073.62,11982.91,6459.16,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,106295.54,1504.76,1284.53,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,F,91966.9,10720.47,724.91,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,78471.5,9631.95,1916.79,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,158722.22,14615.89,6493.42,13
+ITS,Information Technology Services,ITS 103 Data Engineering,F,75620.33,11735.77,461.63,16
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,199045.46,7453.58,316.24,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,143881.94,1582.82,7016.99,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,F,78912.25,10564.68,7218.63,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,M,108922.46,6572.43,6650.15,13
+ITS,Information Technology Services,ITS 101 Infrastructure,M,100377.44,5158.44,9518.45,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,F,144108.67,9169.69,8374.75,16
+ITS,Information Technology Services,ITS 101 Infrastructure,F,65288.25,12077.41,3953.61,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,175970.27,4503.97,7246.17,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,93235.42,6821.95,8182.81,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,78780.57,8663.59,6774.23,18
+ITS,Information Technology Services,ITS 103 Data Engineering,M,112039.44,11543.63,7707.11,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,172950.07,3954.18,4654.07,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,194639.37,512.79,1676.0,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,M,89730.33,10281.15,4854.69,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,179512.84,13534.96,2637.91,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,133842.15,11053.44,2719.27,N20
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,73133.59,11403.64,3013.8,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,130529.31,6832.75,1463.0,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,F,114954.39,8718.74,7499.69,16
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,139677.09,9115.38,7367.23,21
+ITS,Information Technology Services,ITS 101 Infrastructure,F,98237.86,167.1,2434.93,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,179888.44,4006.56,6702.88,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,128190.23,14272.5,9128.91,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,M,66229.68,10431.24,3546.41,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,143179.64,14906.88,9993.19,21
+ITS,Information Technology Services,ITS 101 Infrastructure,F,118760.7,7222.05,113.62,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,F,139631.1,11486.69,3077.68,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,199324.14,1835.23,9487.56,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,136077.28,1621.74,3170.35,16
+ITS,Information Technology Services,ITS 101 Infrastructure,F,182298.03,399.25,1044.5,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,75100.81,3431.71,4782.74,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,164488.23,2618.62,4075.85,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,64932.4,6738.12,4904.95,13
+ITS,Information Technology Services,ITS 103 Data Engineering,M,127498.63,4549.32,1911.03,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,161885.97,8174.73,7111.59,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,135685.14,7163.09,4452.66,13
+ITS,Information Technology Services,ITS 103 Data Engineering,F,137804.5,14349.81,2596.25,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,162415.19,2321.11,5134.02,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,F,87907.33,6363.95,7517.42,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,M,109450.89,11415.35,8168.58,M2
+ITS,Information Technology Services,ITS 101 Infrastructure,F,80800.56,4770.62,8829.85,18
+ITS,Information Technology Services,ITS 101 Infrastructure,M,197297.02,11676.85,8602.67,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,M,155395.02,11526.25,5967.14,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,70519.34,7696.63,8876.5,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,M,92731.07,7230.56,2860.1,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,198148.95,14892.63,2146.17,16
+ITS,Information Technology Services,ITS 101 Infrastructure,M,190136.7,3872.26,1902.06,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,159641.37,606.75,8946.44,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,112515.71,2056.46,2699.62,M2
+ITS,Information Technology Services,ITS 101 Infrastructure,F,139323.65,6862.8,9467.78,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,188196.72,3579.39,7714.63,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,192521.76,4736.04,2172.01,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,130167.22,904.43,3028.97,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,103260.6,5350.35,9309.89,M3
+ITS,Information Technology Services,ITS 103 Data Engineering,F,157305.65,819.43,4178.86,21
+ITS,Information Technology Services,ITS 103 Data Engineering,M,85992.16,12904.92,3826.43,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,M,113024.99,2250.99,3633.76,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,74421.77,9806.1,3311.69,13
+ITS,Information Technology Services,ITS 103 Data Engineering,M,98318.39,893.13,2623.55,13
+ITS,Information Technology Services,ITS 101 Infrastructure,M,63973.39,9807.02,3432.03,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,105963.04,4057.8,7748.47,16
+ITS,Information Technology Services,ITS 103 Data Engineering,M,141488.08,3011.82,970.01,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,F,184845.45,7830.76,9867.59,N20
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,114699.52,1208.02,9608.09,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,106530.16,4836.91,6746.36,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,135509.04,5772.07,4749.76,21
+ITS,Information Technology Services,ITS 101 Infrastructure,F,100867.36,14328.5,1733.73,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,M,64235.73,2322.66,2440.25,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,F,138566.18,13237.14,1996.11,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,70501.87,11918.11,2876.77,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,91019.53,11081.85,7861.79,21
+ITS,Information Technology Services,ITS 103 Data Engineering,F,141434.53,6296.53,2460.47,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,87701.5,11900.37,4009.49,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,127157.05,7841.13,6271.06,16
+ITS,Information Technology Services,ITS 103 Data Engineering,F,75105.33,13000.65,9101.65,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,87923.0,8172.24,3645.69,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,189817.29,13535.0,7564.23,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,M,177710.57,10567.98,5737.12,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,188391.21,9924.03,4550.72,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,143495.85,1222.83,6358.99,N20
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,182745.91,2574.13,6571.18,M3
+ITS,Information Technology Services,ITS 103 Data Engineering,F,125535.67,5228.11,381.13,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,132261.14,5089.91,9513.52,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,F,159671.73,4187.84,6595.75,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,80073.74,2221.12,6113.39,18
+ITS,Information Technology Services,ITS 103 Data Engineering,F,63957.78,12414.33,5747.03,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,129965.75,2315.7,675.96,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,F,176621.14,13456.46,911.22,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,154999.02,8240.11,6012.47,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,M,69145.89,5890.56,4554.74,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,F,190568.35,11939.52,819.01,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,F,170341.5,5417.97,5649.88,M1
+ITS,Information Technology Services,ITS 103 Data Engineering,M,162520.0,11409.46,52.24,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,76633.6,4076.84,3323.37,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,77802.99,6632.07,2565.81,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,107836.46,2838.0,7655.64,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,124485.89,11977.54,8523.86,16
+ITS,Information Technology Services,ITS 103 Data Engineering,M,86703.01,3576.49,4009.51,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,61913.67,3754.3,4023.37,M2
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,163027.0,354.76,7910.71,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,F,195402.83,13382.0,1465.09,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,112412.12,10821.4,6787.89,21
+ITS,Information Technology Services,ITS 101 Infrastructure,F,123472.18,12203.57,6251.21,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,86201.63,9676.3,9281.49,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,127129.67,2920.03,9202.35,M2
+ITS,Information Technology Services,ITS 101 Infrastructure,F,133201.13,1532.48,8154.01,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,F,185492.24,79.29,1353.64,21
+ITS,Information Technology Services,ITS 103 Data Engineering,F,100841.96,13024.04,8398.96,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,186118.42,13516.66,6431.08,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,F,156281.57,3909.26,5783.87,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,169736.93,5087.42,8594.19,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,171953.71,6840.01,9424.44,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,M,150385.18,2353.86,8036.81,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,134468.43,4457.79,3767.27,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,M,148210.61,1318.89,4949.36,M2
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,163483.15,8971.6,6072.38,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,199632.41,12224.18,6648.34,16
+ITS,Information Technology Services,ITS 103 Data Engineering,F,119225.95,603.86,5188.26,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,189666.89,13449.74,1251.23,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,190854.15,3925.62,8633.43,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,131553.7,10784.91,9892.66,13
+ITS,Information Technology Services,ITS 103 Data Engineering,F,100938.89,1902.21,271.29,18
+ITS,Information Technology Services,ITS 101 Infrastructure,F,94885.09,3577.11,424.03,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,M,82625.25,14000.06,991.05,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,192241.07,1285.22,7675.18,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,187048.05,2825.76,2760.7,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,M,127890.0,12224.23,8769.93,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,111233.05,9352.56,5258.35,13
+ITS,Information Technology Services,ITS 103 Data Engineering,F,136997.35,10623.55,5588.1,13
+ITS,Information Technology Services,ITS 103 Data Engineering,M,135094.3,3694.13,648.36,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,M,163587.62,12762.8,2159.9,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,120636.51,12792.2,9901.69,M2
+ITS,Information Technology Services,ITS 101 Infrastructure,M,188551.41,10724.24,8352.49,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,M,63898.36,12562.16,1170.25,N25
+ITS,Information Technology Services,ITS 103 Data Engineering,M,65943.89,3360.49,4132.3,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,F,187510.86,14479.31,8221.68,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,187367.8,5011.07,8199.73,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,77789.18,6601.19,2984.39,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,F,106138.02,10483.87,2958.03,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,63242.93,4328.89,3410.25,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,149563.24,8394.81,9286.09,18
+ITS,Information Technology Services,ITS 103 Data Engineering,M,128572.21,128.97,1169.28,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,171507.87,4723.69,8511.9,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,102495.4,5294.91,9498.03,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,86582.12,12990.19,253.68,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,80226.27,6616.94,4593.99,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,90446.46,10458.68,7725.61,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,143351.99,7854.09,2973.14,18
+ITS,Information Technology Services,ITS 103 Data Engineering,F,165982.03,12590.87,6870.37,M1
+ITS,Information Technology Services,ITS 103 Data Engineering,M,180392.89,1253.0,6313.36,18
+ITS,Information Technology Services,ITS 103 Data Engineering,M,86210.36,9750.15,8880.73,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,172096.0,13461.22,5376.06,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,143462.31,513.53,9266.52,M1
+ITS,Information Technology Services,ITS 103 Data Engineering,F,98150.34,2301.33,9179.24,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,140816.86,4308.82,4831.37,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,M,168192.92,5677.55,2675.13,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,71040.33,400.56,6189.92,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,F,73183.19,5058.24,5519.91,21
+ITS,Information Technology Services,ITS 101 Infrastructure,M,106395.45,6002.6,6663.14,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,78917.16,3897.85,3597.45,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,F,128722.07,12253.99,8779.04,M3
+ITS,Information Technology Services,ITS 103 Data Engineering,M,113909.62,9499.64,8029.35,21
+ITS,Information Technology Services,ITS 103 Data Engineering,M,77988.55,5729.85,6792.5,M3
+ITS,Information Technology Services,ITS 103 Data Engineering,M,61742.71,8989.98,4340.96,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,162559.73,1393.71,4056.82,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,F,110588.74,10042.67,1206.02,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,F,108282.64,8065.43,6395.45,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,141471.4,14276.02,8727.35,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,75198.67,4446.98,6792.91,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,163937.49,3944.83,9039.66,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,71467.49,2809.29,1352.33,16
+ITS,Information Technology Services,ITS 101 Infrastructure,F,70958.66,12768.82,8433.33,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,129379.33,1100.61,3575.42,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,151835.41,13765.19,9420.63,16
+ITS,Information Technology Services,ITS 101 Infrastructure,F,87852.58,1877.6,3277.17,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,176139.56,13225.36,7008.3,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,122776.48,1171.15,8191.12,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,M,165907.82,2337.14,4408.54,13
+ITS,Information Technology Services,ITS 103 Data Engineering,M,136268.07,7471.55,2566.22,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,146495.54,12779.73,2415.74,18
+ITS,Information Technology Services,ITS 101 Infrastructure,M,153096.65,13694.26,1859.89,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,73418.81,11965.23,2166.09,16
+ITS,Information Technology Services,ITS 101 Infrastructure,M,171785.54,4304.73,1924.85,16
+ITS,Information Technology Services,ITS 101 Infrastructure,M,93284.12,14283.54,6686.61,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,122420.93,10.24,7193.27,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,151326.1,3180.63,5039.78,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,136527.0,2356.68,3125.71,16
+ITS,Information Technology Services,ITS 101 Infrastructure,F,105750.14,5332.42,6189.74,M3
+ITS,Information Technology Services,ITS 103 Data Engineering,F,67301.86,14670.28,4495.7,M2
+ITS,Information Technology Services,ITS 101 Infrastructure,M,64157.47,4379.97,3385.91,N20
+ITS,Information Technology Services,ITS 101 Infrastructure,M,125828.27,5022.67,6079.15,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,174995.65,12422.14,1965.81,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,75563.19,9713.42,6440.24,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,113280.35,1531.96,9508.88,N20
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,105665.68,4636.11,7288.86,M2
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,155107.56,4136.62,5538.54,M2
+ITS,Information Technology Services,ITS 101 Infrastructure,F,154222.05,8112.81,4488.91,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,F,183144.77,6365.8,6943.53,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,160749.49,889.15,8404.25,18
+ITS,Information Technology Services,ITS 103 Data Engineering,M,189977.16,7957.31,6659.73,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,71989.29,11949.02,2252.97,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,123971.25,11499.56,6486.3,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,147472.1,12709.76,768.04,13
+ITS,Information Technology Services,ITS 103 Data Engineering,M,176963.14,12165.62,6299.84,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,F,71859.34,1435.98,6466.06,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,90792.89,9098.52,2520.34,21
+ITS,Information Technology Services,ITS 101 Infrastructure,M,155333.92,14954.34,2504.21,21
+ITS,Information Technology Services,ITS 101 Infrastructure,M,156405.7,14330.87,4594.49,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,F,114928.25,5688.99,9502.25,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,72851.31,8570.55,7479.82,13
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,127902.45,7250.05,4373.69,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,155753.5,407.3,1281.62,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,M,137690.78,7620.04,5469.95,13
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,68513.47,4418.67,9772.86,13
+ITS,Information Technology Services,ITS 103 Data Engineering,M,199708.76,9857.13,3995.29,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,185006.52,6785.09,9937.82,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,117575.35,4385.86,9685.34,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,105872.76,9543.75,3509.34,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,164741.85,2021.5,7040.55,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,106021.18,11717.96,5440.47,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,F,174021.14,11486.13,2242.9,N27
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,77105.97,8074.62,4490.43,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,140753.56,13405.9,9674.89,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,69006.64,8862.61,1652.44,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,156068.7,9944.14,4561.43,21
+ITS,Information Technology Services,ITS 103 Data Engineering,M,99242.63,8868.22,2359.65,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,F,102274.97,10201.1,5706.96,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,138145.39,3820.99,7718.32,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,173339.82,12531.58,6742.7,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,M,138041.46,14746.77,948.97,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,140858.74,13266.44,3703.83,M2
+ITS,Information Technology Services,ITS 103 Data Engineering,M,150370.19,456.21,3774.23,16
+ITS,Information Technology Services,ITS 103 Data Engineering,M,80675.39,2846.65,7134.66,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,139039.55,6946.55,2998.52,13
+ITS,Information Technology Services,ITS 103 Data Engineering,M,146959.32,13134.35,3897.83,16
+ITS,Information Technology Services,ITS 101 Infrastructure,F,169430.61,2978.89,2808.36,N20
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,195109.47,9353.19,4111.9,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,F,71461.39,6972.02,524.93,M3
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,136917.37,11697.7,1548.05,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,194427.52,24.0,2797.29,M2
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,116764.37,12168.38,156.23,18
+ITS,Information Technology Services,ITS 101 Infrastructure,M,89411.41,9065.39,4288.4,N25
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,107804.65,10371.84,4486.51,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,85475.84,14950.05,6712.32,21
+ITS,Information Technology Services,ITS 103 Data Engineering,M,112649.6,4765.57,9748.99,13
+ITS,Information Technology Services,ITS 101 Infrastructure,F,162678.0,822.99,2897.67,M3
+ITS,Information Technology Services,ITS 103 Data Engineering,F,73438.61,6046.62,9787.29,N25
+ITS,Information Technology Services,ITS 101 Infrastructure,F,184815.26,7499.97,6740.91,21
+ITS,Information Technology Services,ITS 101 Infrastructure,M,174786.82,6610.72,2757.79,N27
+ITS,Information Technology Services,ITS 101 Infrastructure,F,159987.03,4267.15,3273.64,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,M,179217.18,991.87,1167.14,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,85223.24,14006.71,4083.64,18
+ITS,Information Technology Services,ITS 103 Data Engineering,F,82472.84,4941.48,9704.48,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,104921.08,4681.33,3769.22,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,63910.41,7563.85,4208.28,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,65299.48,5411.14,4545.8,21
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,190874.72,12767.32,5608.53,M1
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,96117.26,3223.85,5740.48,N27
+ITS,Information Technology Services,ITS 103 Data Engineering,M,106027.21,2223.21,6473.37,18
+ITS,Information Technology Services,ITS 103 Data Engineering,M,179855.31,3746.78,3848.79,21
+ITS,Information Technology Services,ITS 104 AI/ML Services,F,136751.16,6481.85,3763.96,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,123723.07,7149.4,1163.11,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,124767.84,8671.17,5392.42,M3
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,69893.99,4750.05,8057.2,18
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,187977.54,4043.87,6440.47,21
+ITS,Information Technology Services,ITS 103 Data Engineering,F,70487.7,9612.74,8525.57,16
+ITS,Information Technology Services,ITS 101 Infrastructure,M,119186.14,6078.52,7330.55,N27
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,175459.71,2853.75,7307.98,N20
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,70330.46,14419.3,6361.24,N20
+ITS,Information Technology Services,ITS 103 Data Engineering,F,123754.03,13213.0,9010.56,M3
+ITS,Information Technology Services,ITS 101 Infrastructure,F,85113.58,690.46,4618.44,N25
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,62777.57,5362.62,8266.92,13
+ITS,Information Technology Services,ITS 103 Data Engineering,M,82262.33,827.97,9643.34,N20
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,74799.88,1160.18,5635.49,M1
+ITS,Information Technology Services,ITS 101 Infrastructure,M,119321.68,1210.07,2300.93,M1
+ITS,Information Technology Services,ITS 102 Cybersecurity,M,180765.59,10333.91,9918.68,M1
+ITS,Information Technology Services,ITS 103 Data Engineering,M,197636.58,11545.44,7207.75,16
+ITS,Information Technology Services,ITS 103 Data Engineering,M,136697.47,6067.19,9243.38,18
+ITS,Information Technology Services,ITS 102 Cybersecurity,F,154852.51,6439.7,1117.13,M1
+ITS,Information Technology Services,ITS 103 Data Engineering,F,68353.56,10271.12,8343.21,16
+ITS,Information Technology Services,ITS 104 AI/ML Services,M,123393.96,1254.23,3823.29,N27
