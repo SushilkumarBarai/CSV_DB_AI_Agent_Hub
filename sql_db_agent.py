@@ -20,7 +20,7 @@ from langchain_community.utilities import SQLDatabase
 
 # create a db from csv file
 
-# Path to your SQLite database file
+# Path to your SQLite database files
 database_file_path = "./db/salary.db"
 
 
